@@ -59,5 +59,53 @@ a {
 
 .banner-heading1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 64px;
+    font-size: 62px;
 }
+
+/* main section */
+
+.section1 {
+    margin: 80px 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-heading1 {
+    font-size: 42px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 70px;
+}
+
+.section-pas1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section-button1:hover {
+    background-color: red;
+    /* transform: 1s; */
+}
+
+.nav-button2:hover{
+    background-color: hsl(0, 100%, 50%);
+}
+
+.section-button1{
+    background-color: rgb(85, 85, 239);
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 40px;
+}
+
+.section-button {
+    list-style: none;
+    padding-right: 145px;
+    display: inline;
+}
+
+.section-img img{
+    border-radius: 46px;
+}
+
