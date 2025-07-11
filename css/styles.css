@@ -109,3 +109,37 @@ a {
     border-radius: 46px;
 }
 
+
+.sec-heading2{
+    text-align: center;
+}
+
+.div-3{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    text-align: center;
+}
+
+.section2{
+    background-color: rgb(183, 199, 242);
+    margin: 0 200px;
+    padding: 50px 250px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    height: 300px;
+}
+
+.sec-heading2{
+    font-size: 38px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 0px;
+}
+
+.div-3 .haa{
+    font-size: 65px;
+    font-weight: bold;
+    color: rgb(110, 110, 240);
+    margin-bottom: 0px;
+}
