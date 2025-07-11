@@ -208,3 +208,172 @@ a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Section 3 */
+
+.section-3{
+    background-color: white;
+    text-align: center;
+    margin: 100px 200px;
+    padding: 50px 250px;
+    margin-bottom: 50px;
+    height: 550px;
+    
+}
+
+.sec3-heading{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sec3-template{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sec3-button{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 40px;
+}
+
+.section3-bb{
+    list-style: none;
+}
+
+.section3-img{
+    border-radius: 32px;
+    
+}
+
+.sec3-button:hover{
+    background-color: red;
+}
+.section3-img{
+    width: 840px;
+    height: 365px;
+    align-items: center;
+    
+   
+
+
+   
+}
+
+
+
+/* Section 4 */
+
+.sec4-all{
+    padding: 130px 230px;
+    display: flex;
+    gap: 150px;
+    justify-content: space-between;
+    margin-right: 40px;
+}
+
+.sec4-in-lab{
+    width: 50%;
+}
+
+.sec4-all input[type="text"], sec4-all textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+
+.sec4-all textarea{
+    padding: 0px 80px;
+    display: block;
+    border: none;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    m
+}
+
+.btn-primary{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 12px;
+    padding: 0px 80px;
+    display: block;
+    border: none;
+    width: 497px;
+    height: 62px;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    /* margin-right: 25px; */
+}
+
+.btn-primary:hover{
+    background-color: red;
+}
+
+.sec4-heading{
+    /* width: 520px;
+    height: 227px; */
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 80px;
+   
+}
+/* 
+.sec4-all{
+    width: 1140px;
+    height: 632px;
+{ */
+
+.section4-in-lab label{
+    width: 497px;
+    height: 70px;
+    font-size: 25px;
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* footer section */
+
+.footer-link{
+    display: flex;
+    justify-content: center;
+}
+
+.footer1{
+    text-align: center;
+    background-color: white;
+    width: 100%;
+    height: 400px;
+    padding: 50px;
+}
+
+
+.footer-link{
+    gap: 50px;
+    font-size: 20px;
+    list-style: none;
+}
+
+.footer-link a{
+    color: rgb(118, 101, 101);
+}
+
+.ft-span{
+    color: tomato;
+}
+
+.footer-link a:hover{
+    color: rgb(247, 17, 205);
+}
+.lg{
+    color: blue;
+}
